@@ -12,7 +12,7 @@ It functions like a multi-agent development team, capable of taking a natural la
 - **Coder Agent** – Implements each task, writes directly into files, and uses available tools like a real developer.  
 
 <div style="text-align: center;">
-    <img src="resources/end2endai_diagram.png" alt="End2EndAI Architecture" width="90%"/>
+    <img src="resources/End2EndAI_diagram.png" alt="End2EndAI Architecture" width="90%"/>
 </div>
 
 ---
